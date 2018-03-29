@@ -1,0 +1,30 @@
+#quetion{
+    font-family: "Comic Sans MS";
+    font-size: 49px;
+    text-align: center;
+    height: 380px;
+    color: white;
+}
+button{
+    box-shadow: 2px 1px black;
+    width: 30%;
+    color: white;
+
+}
+#True{
+    margin-left: 7%;
+    font-size: 55px;
+    background-color: #721c24;
+}
+
+#False{
+    font-size: 55px;
+    margin-left: 4%;
+    background-color: goldenrod;
+}
+
+#verdict{
+    margin-left: 9%;
+    font-size: 170px;
+    font-family: "Comic Sans MS";
+}
