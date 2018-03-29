@@ -1,9 +1,7 @@
 server {
     listen 80;
     location / {
-    alias /home/vagrant/articles/
-
-    index index.html
+    alias /home/vagrant/articles/;
+    index index.html;
     }
-
 }
